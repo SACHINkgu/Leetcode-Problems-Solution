@@ -1,4 +1,4 @@
-// Note i am submitting only the solution which i have submit on coding paltform you have to apply your own main function.
+// Note:  you have to apply your own main function.
 //BY SACHIN KUMAR GUPTA
 
 struct node {
